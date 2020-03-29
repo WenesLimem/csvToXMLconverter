@@ -113,7 +113,7 @@ public class CSVtoXML {
             index++;
         }
         while( index < entryNode.size() ){
-            System.out.println("Input file is ki zok 3amtek !");
+            System.out.println("Input file is dirty !");
             index ++;
         }
     }
